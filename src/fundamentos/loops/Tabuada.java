@@ -1,9 +1,9 @@
-package fundamentos.loops;
-import java.util.Scanner;
-
 /*
 Receba um número do usuário e imprima a tabuada de 1 a 10 com for.
  */
+
+package fundamentos.loops;
+import java.util.Scanner;
 
 public class Tabuada {
     public static void main(String[] args) {
@@ -22,6 +22,7 @@ public class Tabuada {
             System.out.println(numero + " x " + i + " = " + resultado);
         }
 
+        // Fechando o scanner
         input.close();
     }
 }

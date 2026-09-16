@@ -21,13 +21,7 @@ java-exercicios/
 │   ├── loops/
 │   └── exercicios-gerais/
 │
-├── poo/
-│   ├── classes-e-objetos/
-│   ├── metodos/
-│   ├── encapsulamento/
-│   └── exercicios-praticos/
-│
-├── desafios/
+├── semana01/
 │   ├── nivel-facil/
 │   ├── nivel-medio/
 │   └── nivel-avancado/
@@ -63,6 +57,6 @@ Este repositório tem como objetivo:
 
 ## 🌱 Observação
 
-Os códigos aqui refletem meu **nível atual de aprendizado** e podem ser refatorados ao longo do tempo conforme adquiro novos conhecimentos.
+Os códigos aqui refletem o meu **nível atual de aprendizado** e podem ser refatorados ao longo do tempo conforme adquiro novos conhecimentos.
 
 ✨ *Em constante aprendizado. Um exercício de cada vez.*

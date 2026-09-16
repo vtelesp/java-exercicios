@@ -1,11 +1,12 @@
+/*
+Crie um programa que realiza soma, subtração, multiplicação e divisão entre dois números.
+ */
+
 package fundamentos.variaveis;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-/*
-Crie um programa que realiza soma, subtração, multiplicação e divisão entre dois números.
- */
 
 public class calculosBasicos {
     public static void main(String[] args) {
