@@ -1,4 +1,4 @@
-package semana01.poo;
+package semana01.poo.sistemaBancario;
 
 public class Cliente {
 
